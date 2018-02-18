@@ -6,5 +6,3 @@ See a different background image depending on the weather.
  
 Push a button to toggle between Fahrenheit and Celsius.
 
-view here: http://mattdavida.x10host.com/Official%20weather%20project/main.html
-
